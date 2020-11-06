@@ -1,0 +1,22 @@
+{
+    "name": "APP Marcelo ",
+    "short_name": "Marcelo",
+    "description": "APP Marcelo ",
+    "lang": "pt-BR",
+    "start_url": "./",
+    "scope": "./?",
+    "display": "fullscreen",
+    "theme_color": "Blue",
+    "icons": [{
+            "src": "img/CEP.png",
+            "sizes": "170x170",
+            "type": "image/png"
+        },
+        {
+            "src": "img/CEP.png",
+            "sizes": "170x170",
+            "type": "image/png"
+        }
+    ],
+    "background_color": "white"
+}
